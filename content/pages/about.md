@@ -1,21 +1,18 @@
 ---
-title: 'About me'
+title: 'Acerca de mi'
 menu:
   main:
     name: "AboutMe"
 ---
 
-## Who am I
+## Quien soy yo
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Mi nombre ya lo conoceís Magdiel G. soy nacido en Nayarit, México.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+
+**Magdiel G.** Soy un desarrollador frontend y backeend proximamente gracias a Launch X, he aprendido mucho sobre las tecnologías de la cominicación.
+Vivo en Nayarit, México, estudie en la Universidad Tecnologica de la Costa y me gradue en el año 2015 gracias a Dios y a mis padres que medieron la oportunidad.
+Me gusta la música de todo tipo y aclaro esto para que me conozcan mejor soy **Cristiano** y me gusta tocar la bateria, es una de mis pasiones que quiero mejorar cada día y servirle a Dios con ello y además contarte que **Jesus te ama.***
 
