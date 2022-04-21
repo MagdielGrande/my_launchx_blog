@@ -10,8 +10,9 @@ En su día a día el desarrollador se ve obligado a encarar dilemas morales, con
 en la sociedad y asume funciones sensibles, como la gestión de bancos de datos privados o información estratégica.
 
 Por ello el desarrollador debe tener claro sus valores eticos y profesionales por ejemplo:
+
 - Sinceridad
-- Empatía 
+- Empatía
 - Amor
 - Paciencia
 - Gratitud
