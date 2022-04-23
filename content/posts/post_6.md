@@ -18,4 +18,4 @@ El usuario Magdiel hace un **fork** (arriba te menciono lo que es hacer un fork)
 **A esto se le conoce como hacer un pull request.**
 
 
-espero haberte ayudado en algo. Gracias.
+Espero haberte ayudado en algo. Gracias.
