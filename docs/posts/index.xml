@@ -8,6 +8,201 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://magdielgrande.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Crea tu primer proyecto de JS</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_24/</link>
+      <pubDate>Thu, 21 Apr 2022 18:54:50 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Importancia de las pruebas en tu proyecto</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_23/</link>
+      <pubDate>Thu, 21 Apr 2022 18:53:10 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TDD</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_22/</link>
+      <pubDate>Thu, 21 Apr 2022 18:51:49 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post_21</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_21/</link>
+      <pubDate>Thu, 21 Apr 2022 18:50:00 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NPM</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_20/</link>
+      <pubDate>Thu, 21 Apr 2022 18:49:10 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No versiones node_modules</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_19/</link>
+      <pubDate>Thu, 21 Apr 2022 18:42:03 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JEST</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_18/</link>
+      <pubDate>Thu, 21 Apr 2022 18:37:45 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modularizar archivos JS</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_17/</link>
+      <pubDate>Thu, 21 Apr 2022 18:36:01 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clases y objetos en JS</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_16/</link>
+      <pubDate>Thu, 21 Apr 2022 18:34:55 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JS Estructuras de datos</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_15/</link>
+      <pubDate>Thu, 21 Apr 2022 18:33:34 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstraer entidades y modelarlas en objetos JS</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_14/</link>
+      <pubDate>Thu, 21 Apr 2022 18:31:13 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextos globales y locales</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_13/</link>
+      <pubDate>Thu, 21 Apr 2022 18:30:20 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Objeto de JS</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_12/</link>
+      <pubDate>Thu, 21 Apr 2022 18:19:38 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desarrollo de software</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_11/</link>
+      <pubDate>Thu, 21 Apr 2022 18:18:02 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instalar node JS, usar REPL y ejecuta un script de js</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_10/</link>
+      <pubDate>Thu, 21 Apr 2022 17:49:07 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalizando la linea de comandos Windows</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_9/</link>
+      <pubDate>Thu, 21 Apr 2022 17:39:54 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linea de comandos (cmd) Windows</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_8/</link>
+      <pubDate>Thu, 21 Apr 2022 17:37:53 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repositorio de Github</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_7/</link>
+      <pubDate>Thu, 21 Apr 2022 17:34:42 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fork y Pull Request (Git y Github)</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_6/</link>
+      <pubDate>Thu, 21 Apr 2022 17:23:22 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_6/</guid>
+      <description>Fork Un fork o hacer un fork es nada más que hacer una copia personal del repositorio de otra persona. Al hacer fork creas un repositorio en tu github y puedes modificarlo a tu manera y como lo requieras.
+Pull Request El Pull request es una contribución que puede hacer a un proyecto grupal o a otra persona por ejemplo.
+El usuario Magdiel hace un fork (arriba te menciono lo que es hacer un fork) a un repositorio de su compañera de desarrollo Lesly, hace cambios agregando nuevas funciones a su código y hace un pull request, a este usuario &amp;ldquo;Lezly &amp;quot; le llega la sugerencia de cambios a su repositorio y depende de ella aceptarla o no.</description>
+    </item>
+    
+    <item>
+      <title>Entendiendo Git &#43; Experiencia (Errores y soluciones)</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_5/</link>
+      <pubDate>Thu, 21 Apr 2022 17:21:28 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_5/</guid>
+      <description>Git Hola explorer o persona del internet!
+Te voy a contar una de mis experiencias cuando empece a utilizar Git y empece a versionar mis proyectos de software.
+Cabe mencionar que no tenia idea de que era o como utilizarlo, bien púes allá vamos!.
+Git como te mencionaba en un post anterior es una herramienta que nos ayuda a todos los desarrolladores y nos hace mas profesionales a la hora de tener un mejor control de nuestras aplicaciones, por ello si o si se debe de hacer.</description>
+    </item>
+    
+    <item>
+      <title>GitHub Pages</title>
+      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_4/</link>
+      <pubDate>Thu, 21 Apr 2022 17:19:41 -0500</pubDate>
+      
+      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_4/</guid>
+      <description>Github Pages Es un servicio de GitHub que nos aporta un alojamiento para nuestros proyectos y asi mostrarlos en una página web estática. Es algo muy sencillo además no te toma más de 5 minutos configurar.
+Cómo funciona Una vez tengas en el repositorio de github tus archivos de tu pagina web estática procedemos a ir a nuestro repositorio por ejemplo github.com/Usuario/tu_repositorio nos dirigimos a la parte de settings, una vez en esta sección nos vamos a la parte de pages, seleccionas la rama de tu repositorio y después le damos en guardar.</description>
+    </item>
+    
+    <item>
       <title>¿Hugo?</title>
       <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_3/</link>
       <pubDate>Sun, 10 Apr 2022 16:11:53 -0500</pubDate>
