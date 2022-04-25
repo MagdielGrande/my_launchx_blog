@@ -1,6 +1,6 @@
 ---
 title: "Instalar node JS, usar REPL y ejecuta un script de js"
-date: 2022-04-21T17:49:07-05:00
+date: 2022-04-16T17:49:07-05:00
 description: 'Cómo instalar node JS, cómo usar la REPL (Read-Evaluate-Print-Loop) y cómo ejecutar un script de js.'
 ---
 ## Qué es Node.js
@@ -11,7 +11,7 @@ Ideado como un entorno de ejecución de JavaScript orientado a eventos asíncron
 
 Para instalar node en ubuntu es tan simple como ir a al terminal e introducir el comando siguiente.
 
-**sudo apt install nodejs**
+>**sudo apt install nodejs**
 
 una ves instalado puedes verificar la version de nodejs con el comnado **node --version**
 
@@ -25,28 +25,28 @@ Lo haremos usando un NVM (Node Version Manager), aquí podemos elegir una versi�
 
 Primero se descarga NVM usando wget, ejecuta este comando para saber si lo tienes o para instalarlo.
 
-***sudo apt install wget***
+>***sudo apt install wget***
 
 Despúes ejecuta el siguiente comando:
 
-***``wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash``***
+>***``wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash``***
 
 Para que NVM se use desde el perfil de bash de tu usuario ejecutando el comando siguiente:
 
-***source ~/.profile***
+>***source ~/.profile***
 
 
 Puedes usar NVM para mostrar todas las versiones de Node.js disponibles para instalar.
 
-***nvm ls-remote***
+>***nvm ls-remote***
 
 Ahora solo nos basta elegir que version queremos instalar y para ello, ejecuta el comando:
 
-***nvm install 18.0.0***
+>***nvm install 18.0.0***
 
 Para saber la version instalada o verificar que se halla instalado ejecutamos el comando siguiente:
 
-***node --version*** ó ***node -v***
+>***node --version*** ó ***node -v***
 
 
 ## Usar el REPL de node 
@@ -57,18 +57,17 @@ solo debemos ejecutar el comando ***node*** en la terminal o cosola del sistema 
 
 y en la terminal se vera algo como:
 
-
-**Welcome to Node.js v18.0.0.**
-
-
-**Type ".help" for more information.**
-
-
-**>**
+~~~
+Welcome to Node.js v18.0.0.
+Type ".help" for more information.
+>
+~~~
 
 ## Para ejecutar un script.js
 
-tenemos que ubicarnos donde se encuentre el archivo y despúes ejecutamos el comando de ***node archivo.js***
+tenemos que ubicarnos donde se encuentre el archivo y despúes ejecutamos el comando de:
+
+>***node archivo.js***
 
 
 gracias por ver éste post. 
