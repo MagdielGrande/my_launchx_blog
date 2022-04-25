@@ -127,13 +127,13 @@
     <item>
       <title>Instalar node JS, usar REPL y ejecuta un script de js</title>
       <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_10/</link>
-      <pubDate>Thu, 21 Apr 2022 17:49:07 -0500</pubDate>
+      <pubDate>Sat, 16 Apr 2022 17:49:07 -0500</pubDate>
       
       <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_10/</guid>
       <description>Qué es Node.js Ideado como un entorno de ejecución de JavaScript orientado a eventos asíncronos, Node.js está diseñado para crear aplicaciones network escalables.
 Instalar nodejs en ubuntu Para instalar node en ubuntu es tan simple como ir a al terminal e introducir el comando siguiente.
-sudo apt install nodejs
-una ves instalado puedes verificar la version de nodejs con el comnado node &amp;ndash;version
+ sudo apt install nodejs
+ una ves instalado puedes verificar la version de nodejs con el comnado node &amp;ndash;version
 Advertencia Cuando utilizamos este comando se intalla la versión que tiene en el sistema, si queremos instalar otra version mas actualizada como la que nos aparece en su página web.</description>
     </item>
     
