@@ -1,6 +1,6 @@
 ---
 title: "Repositorio de Github"
-date: 2022-04-21T17:34:42-05:00
+date: 2022-04-14T17:34:42-05:00
 description: 'Qué es un repo de GitHub (markdown, issues, discussions, acionts, etc.)'
 ---
 ## Repositorio de Github
@@ -15,7 +15,6 @@ Lo primero que debes tener es una cuenta creada en GitHub.
 
 * Debes llenar los datos que se solicitan a continuación.
 * Darle un nombre, que de preferencia debe ser claro.
-
 * Definir si será público o privado y colocar una pequeña descripción sobre tu repositorio si lo deseas.
 
 Una buena practica es tener un archivo **README** ya que es lo primero que la mayoría hace al entrar aun repositorio de Github.
@@ -28,7 +27,6 @@ Markdown es un lenguaje de marcado que facilita la aplicación de formato a un t
 
 ## Issues
 
-
 Un *Issue* es una nota en un repositorio que trata de llamar la atención sobre un problema. Puede ser un error a corregir, una petición para añadir una nueva opción o característica, una pregunta para aclarar algún tema que no está correctamente aclarado o muchas otras cosas diferentes. En GitHub puedes etiquetar, buscar o asignar  *Issues* , haciendo que la gestión de un proyecto activo sea más sencilla.
 
 El sistema de seguimiento de *Issues* de GitHub es especial porque está enfocado en la colaboración, las referencias entre documentos y el adecuado formato de texto.
@@ -40,7 +38,6 @@ GitHub Discussions es un foro de comunicación colaborativa para la comunidad en
 GitHub Discussions es un foro de comunicación colaborativa para la comunidad que circunda un proyecto de código abierto. Los debates existen para las conversaciones que necesitan ser transparentes y accesibles pero no necesitan rastrearse en un tablero de proyecto y no se relacionan con el código, a diferencia de los Propuestas de GitHub. Los debates habilitan las conversaciones abiertas y fluídas en un foro público.
 
 Los debates proporcionan un espacio para que existan conversaciones colaborativas al conectar y asignar un área más centralizada para conectarse y encontrar información.
-
 
 ## Actions
 

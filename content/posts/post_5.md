@@ -1,9 +1,8 @@
 ---
 title: "Entendiendo Git + Experiencia (Errores y soluciones)"
-date: 2022-04-21T17:21:28-05:00
+date: 2022-04-12T17:21:28-05:00
 description: 'Escribe cómo has entendido git por vez primera, que problemas tuviste para instalarlo y cómo lo resolviste. Tu experiencia resolviendo errores es oro.'
 ---
-
 ## Git
 
 Hola explorer o persona del internet!
@@ -41,6 +40,7 @@ git config --global user.name "tu nombre"
 
 git config --global user.email "tu email"
 ```
+
 Si quieres ver la configuración que tiene tu git, en tu terminal ejecuta el siguiente comando :
 
 ```
