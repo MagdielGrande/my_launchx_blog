@@ -27,9 +27,13 @@ Primero se descarga NVM usando wget, ejecuta este comando para saber si lo tiene
 
 >***sudo apt install wget***
 
+![sudo apt install wget](/images/10.png)
+
 Despúes ejecuta el siguiente comando:
 
 >***``wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash``***
+
+![Texto alternativo](/images/10.1.png)
 
 Para que NVM se use desde el perfil de bash de tu usuario ejecutando el comando siguiente:
 
