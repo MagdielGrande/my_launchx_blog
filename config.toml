@@ -1,6 +1,6 @@
 baseURL = "https://magdielgrande.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Magdiel Grande, Hey Blog"
+title = "Magdiel Grande"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
