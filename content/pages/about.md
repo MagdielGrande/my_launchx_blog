@@ -6,7 +6,7 @@ menu:
 ---
 ## Quien soy yo
 
-Hola, aquí vas a leer un poco sobre mi
+Que tal! aquí vas a conocer un poco más sobre mi.
 
 > Mi nombre es Magdiel G. Nací en Nayarit, México.
 
