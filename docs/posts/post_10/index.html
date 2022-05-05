@@ -59,7 +59,61 @@
       
     </div>
     <div class="content">
-      
+      <h2 id="qué-es-nodejs">Qué es Node.js</h2>
+<p>Ideado como un entorno de ejecución de JavaScript orientado a eventos asíncronos, Node.js está diseñado para crear aplicaciones network escalables.</p>
+<h3 id="instalar-nodejs-en-ubuntu">Instalar nodejs en ubuntu</h3>
+<p>Para instalar node en ubuntu es tan simple como ir a al terminal e introducir el comando siguiente.</p>
+<blockquote>
+<p><strong>sudo apt install nodejs</strong></p>
+</blockquote>
+<p>una ves instalado puedes verificar la version de nodejs con el comnado <strong>node &ndash;version</strong></p>
+<h3 id="advertencia">Advertencia</h3>
+<p>Cuando utilizamos este comando se intalla la versión que tiene en el sistema, si queremos instalar otra version mas actualizada como la que nos aparece en su página web.</p>
+<p>Lo haremos usando un NVM (Node Version Manager), aquí podemos elegir una versión específica para instalar. Esto es mejor ya que podemos elegir la version que nosotros deseamos instalar.</p>
+<h3 id="instalar-la-ultima-versión-de-nodejs">INstalar la ultima versión de Nodejs</h3>
+<p>Primero se descarga NVM usando wget, ejecuta este comando para saber si lo tienes o para instalarlo.</p>
+<blockquote>
+<p><em><strong>sudo apt install wget</strong></em></p>
+</blockquote>
+<p><img src="../../images/10.png" alt="sudo apt install wget"></p>
+<p>Despúes ejecuta el siguiente comando:</p>
+<blockquote>
+<p><em><strong><code>wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash</code></strong></em></p>
+</blockquote>
+<p><img src="../../images/10.1.png" alt="Texto alternativo"></p>
+<p>Para que NVM se use desde el perfil de bash de tu usuario ejecutando el comando siguiente:</p>
+<blockquote>
+<p><em><strong>source ~/.profile</strong></em></p>
+</blockquote>
+<p>Puedes usar NVM para mostrar todas las versiones de Node.js disponibles para instalar.</p>
+<blockquote>
+<p><em><strong>nvm ls-remote</strong></em></p>
+</blockquote>
+<p>Ahora solo nos basta elegir que version queremos instalar y para ello, ejecuta el comando:</p>
+<blockquote>
+<p><em><strong>nvm install 18.0.0</strong></em></p>
+</blockquote>
+<p>Para saber la version instalada o verificar que se halla instalado ejecutamos el comando siguiente:</p>
+<blockquote>
+<p><em><strong>node &ndash;version</strong></em> ó <em><strong>node -v</strong></em></p>
+</blockquote>
+<h2 id="usar-el-repl-de-node">Usar el REPL de node</h2>
+<p>solo debemos ejecutar el comando <em><strong>node</strong></em> en la terminal o cosola del sistema operativo  ejemplo:</p>
+<blockquote>
+<p><em><strong>node</strong></em></p>
+</blockquote>
+<p>y en la terminal se vera algo como:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">Welcome to Node.js v18.0.0.
+Type &#34;.help&#34; for more information.
+&gt;
+</code></pre></div><h2 id="para-ejecutar-un-scriptjs">Para ejecutar un script.js</h2>
+<p>tenemos que ubicarnos donde se encuentre el archivo y despúes ejecutamos el comando de:</p>
+<blockquote>
+<p><em><strong>node archivo.js</strong></em></p>
+</blockquote>
+<p>gracias por ver éste post.</p>
+<p>seguimos actualizando los posts para una mejor complensión y le agregaremos imagenes. :)</p>
+
     </div>
   </div>
 

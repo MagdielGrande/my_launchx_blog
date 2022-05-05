@@ -6,16 +6,7 @@
     <description>Recent content in Launch X Bitácora de viaje on Magdiel Grande, Hey Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Apr 2022 18:52:23 -0500</lastBuildDate><atom:link href="https://magdielgrande.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Post_25</title>
-      <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_25/</link>
-      <pubDate>Sun, 24 Apr 2022 18:52:23 -0500</pubDate>
-      
-      <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_25/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 21 Apr 2022 18:54:50 -0500</lastBuildDate><atom:link href="https://magdielgrande.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crea tu primer proyecto de JS</title>
       <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_24/</link>
@@ -130,16 +121,21 @@
       <pubDate>Thu, 21 Apr 2022 18:18:02 -0500</pubDate>
       
       <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_11/</guid>
-      <description></description>
+      <description>Hola Explorers En este blog te voy a comentar acerca de, el desarrollo de software.
+Bien,como muchos conocen en el desarrollo de software puede haber muchas opiniones y tu puedes obtener ayuda en base a esas opiniones o experiencias, hace tiempo que estaba estudiando en la universidad me enseñaron cosas muy basicas, pero de verdad muy basicas, nada comparado al mundo exterior y con ésto me refiero al mundo de la tecnología.</description>
     </item>
     
     <item>
       <title>Instalar node JS, usar REPL y ejecuta un script de js</title>
       <link>https://magdielgrande.github.io/my_launchx_blog/posts/post_10/</link>
-      <pubDate>Thu, 21 Apr 2022 17:49:07 -0500</pubDate>
+      <pubDate>Sat, 16 Apr 2022 17:49:07 -0500</pubDate>
       
       <guid>https://magdielgrande.github.io/my_launchx_blog/posts/post_10/</guid>
-      <description></description>
+      <description>Qué es Node.js Ideado como un entorno de ejecución de JavaScript orientado a eventos asíncronos, Node.js está diseñado para crear aplicaciones network escalables.
+Instalar nodejs en ubuntu Para instalar node en ubuntu es tan simple como ir a al terminal e introducir el comando siguiente.
+ sudo apt install nodejs
+ una ves instalado puedes verificar la version de nodejs con el comnado node &amp;ndash;version
+Advertencia Cuando utilizamos este comando se intalla la versión que tiene en el sistema, si queremos instalar otra version mas actualizada como la que nos aparece en su página web.</description>
     </item>
     
     <item>
